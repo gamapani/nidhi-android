@@ -16,6 +16,8 @@ The app includes the catalog and all six lyric scripts: English/romanized, Kanna
 
 ## Update
 
+[Obtainium](https://github.com/ImranR98/Obtainium) is a good way to keep Nidhi updated. Install Obtainium and add `https://github.com/gamapani/nidhi-android` as an app source to get notifications about new releases and install updates directly from GitHub.
+
 Download the latest APK and install it over your existing release installation. Releases use the same signing key. If you previously installed a debug build, uninstall it before installing a release build; uninstalling clears that app's local data.
 
 ## Verify a download
